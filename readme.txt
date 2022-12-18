@@ -20,7 +20,4 @@ visualize:
       which motifs within a letter type appear in the most geographic locations
       comparing 2 locations in 1 chart; value of each motif letter type
 
-Please let me know if you think this seems like a sufficient project; I am worried it may not be enough since it is just using 1 data file and directly transforming it to XML. I do think that the anlaysis and plotting will be quite challenging for me though.
 
-
-If I had the time to do a big research project, I think it would be interesting to use full text mining to scrape all of the motifs from a collection of works by a single author/tradition, and maybe the xml index could be a starting point/reference for that... but that would also require a lot more skills than what I currently have lol.
