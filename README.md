@@ -3,7 +3,7 @@
 Thompson's Motif-Index of Folk Literature: A Classification of Narrative Elements in Folktales, Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jestbooks, and Local Legends.
 
 LIS487 Data Interoperability- Catherine Dumas, Fall 2022
-Final Project- Thompson's Motif Index 
+Final Project- Thompson's Motif Index: Data Analysis
 Molly Peters 
 
 Sources of data:
